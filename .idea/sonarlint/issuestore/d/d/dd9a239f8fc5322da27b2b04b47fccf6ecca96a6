@@ -1,0 +1,30 @@
+
+P
+java:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+P
+java:S11414"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+7
+java:S1643,"Use a StringBuilder instead.(ì×Œüÿÿÿÿ
+7
+java:S1643/"Use a StringBuilder instead.(°–‹¢øÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¾¾á´øÿÿÿÿ
+L
+java:S5411$"*Use the primitive boolean expression here.(¹£Ùæşÿÿÿÿ8“ÿßË0
+g
+java:S20957"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(¾ÌğŒüÿÿÿÿ
+W
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(¸ÈÅÎ
+N
+java:S5855'",Remove or rework this redundant alternative.(ùˆ¯îÿÿÿÿÿ8¤´ëŞË0
+c
+java:S5361,"HReplace this call to "replaceAll()" by a call to the "replace()" method.(ì×Œüÿÿÿÿ
+^
+java:S1858."C"substring" returns a string, there's no need to call "toString()".(–©şÿÿÿÿ
+W	java:S8996"BDo something with the "boolean" value returned by "createNewFile".(¯ˆ•Õ
+U
+java:S1128"8Remove this unused import 'jxl.read.biff.BiffException'.(²ĞÏ8€‚ßË0
+R
+java:S1128"5Remove this unused import 'java.text.ParseException'.(ñ®ï•8€‚ßË0
+H
+java:S1128
+"+Remove this unused import 'java.util.Date'.(¸…¼ü8€‚ßË0

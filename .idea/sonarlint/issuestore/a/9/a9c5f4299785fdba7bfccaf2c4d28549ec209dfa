@@ -1,0 +1,7 @@
+
+V
+java:S1854#"9Remove this useless assignment to local variable "orgid".(­æ°†8•Éàû0
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(¹ˆÄŸ
+]	java:S125&"<This block of commented-out lines of code should be removed.(’öÀïúÿÿÿÿ8âÒàû0
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8âÒàû0

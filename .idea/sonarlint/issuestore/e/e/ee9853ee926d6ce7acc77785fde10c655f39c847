@@ -1,0 +1,22 @@
+
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(òÏºøÿÿÿÿÿ
+X
+java:S1854&"<Remove this useless assignment to local variable "maxLimit".(Ð‘Äp8ôž€ €1
+^
+java:S1854 "<Remove this useless assignment to local variable "minLimit".(ãáêŽøÿÿÿÿ8ôž€ €1
+X
+java:S18542"<Remove this useless assignment to local variable "maxLimit".(Ð‘Äp8ôž€ €1
+Y
+java:S1854."<Remove this useless assignment to local variable "minLimit".(½”€™8ôž€ €1
+O
+java:S1481"-Remove this unused "minLimit" local variable.(½€¥Øúÿÿÿÿ8öž€ €1
+J
+java:S1481"-Remove this unused "maxLimit" local variable.(½ï”‡8öž€ €1
+X	java:S125:"<This block of commented-out lines of code should be removed.(Ðš€é8÷ž€ €1
+Z	java:S106G"9Replace this use of System.out or System.err by a logger.(­­ñœøÿÿÿÿ8£¸ÿŸ€1
+N
+java:S1128"1Remove this unused import 'java.text.DateFormat'.(÷Œá¼8³½€ €1
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8³½€ €1
+L
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òþÿÿÿÿ8³½€ €1

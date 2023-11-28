@@ -1,0 +1,8 @@
+
+c
+java:S1854%"ARemove this useless assignment to local variable "ifContainskey".(¨¾¡„üÿÿÿÿ8÷ÊÎ¨Ø0
+T
+java:S1481%"2Remove this unused "ifContainskey" local variable.(¨¾¡„üÿÿÿÿ8€ËÎ¨Ø0
+U	java:S106,"9Replace this use of System.out or System.err by a logger.(ÑöŒÜ8³²½¨Ø0
+U	java:S1060"9Replace this use of System.out or System.err by a logger.(¥²˜Å8…ËÎ¨Ø0
+U	java:S1061"9Replace this use of System.out or System.err by a logger.(áñÁ·8†ËÎ¨Ø0

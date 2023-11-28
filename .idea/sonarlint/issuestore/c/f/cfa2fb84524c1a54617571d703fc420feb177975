@@ -1,0 +1,19 @@
+
+R
+java:S1854"<Remove this useless assignment to local variable "preMonth".(Ï†•ü
+[
+java:S1854
+">Remove this useless assignment to local variable "dateFormat".(ûú»ú8×óìœÊ0
+L
+java:S1481
+"/Remove this unused "dateFormat" local variable.(ûú»ú8ÙóìœÊ0
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÛÒŒë
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÒåÑ¿
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ç²õ¬
+N	java:S106"9Replace this use of System.out or System.err by a logger.(„ò”Î
+Q	java:S125"<This block of commented-out lines of code should be removed.(„Àû
+N	java:S106"9Replace this use of System.out or System.err by a logger.(’š´•
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÁÌûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÏÅÏò
+C
+java:S1481"-Remove this unused "preMonth" local variable.(Ï†•ü
